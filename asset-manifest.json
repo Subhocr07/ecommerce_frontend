@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a625fd7d.css",
+    "main.js": "/static/js/main.d4e6bdb3.js",
+    "static/media/usa.png": "/static/media/usa.55f709b870b6a70f1217.png",
+    "static/media/headphones.png": "/static/media/headphones.082a7376def02d754df6.png",
+    "static/media/phone.png": "/static/media/phone.ff80559b8448bb5ffda6.png",
+    "static/media/wallpaper.jpg": "/static/media/wallpaper.9f195334d67ffbd09386.jpg",
+    "static/media/laptop.png": "/static/media/laptop.249ef0fb79582d279ef0.png",
+    "index.html": "/index.html",
+    "main.a625fd7d.css.map": "/static/css/main.a625fd7d.css.map",
+    "main.d4e6bdb3.js.map": "/static/js/main.d4e6bdb3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a625fd7d.css",
+    "static/js/main.d4e6bdb3.js"
+  ]
+}
